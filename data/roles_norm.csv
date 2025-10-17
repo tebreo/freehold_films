@@ -1,0 +1,12 @@
+role_id,role_name,department
+1,Director,Production
+2,Writer,Pre-Production
+3,Producer,Overhead
+4,Lead Actor,Production
+5,Supporting Actor,Production
+6,Extra,Production
+7,Editor,Post-Production
+8,Cinematographer,Production
+9,Makeup Artist,Production
+10,Intimacy Coordinator,Production
+11,Casting Director,Pre-Production

@@ -1,0 +1,15 @@
+person_id,name,sag_status,base_rate_type,base_rate_amount
+1,Zach Rovner,Non-SAG,Flat,12000.0
+2,Tristan Mackenzie,Non-SAG,Flat,8000.0
+3,Cayman Cardiff,SAG-AFTRA,Daily,1200.0
+4,Quincy Leah,SAG-AFTRA,Daily,1100.0
+5,Nic Caruccio,SAG-AFTRA,Daily,1000.0
+6,Sara Quiriconi,SAG-AFTRA,Daily,1200.0
+7,Rebecca Berg,SAG-AFTRA,Daily,1000.0
+8,Nas Akkerman,SAG-AFTRA,Daily,900.0
+9,Bridget Dunn,Non-SAG,Daily,200.0
+10,Lead Editor,Non-SAG,Flat,20000.0
+11,Director of Photography,Non-SAG,Daily,3500.0
+12,Makeup Artist,Non-SAG,Daily,400.0
+13,Intimacy Coordinator,Certified,Daily,600.0
+14,Casting Director,Non-SAG,Flat,3000.0
