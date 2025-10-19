@@ -49,3 +49,4 @@ A normalized MySQL database and Tableau dashboard for tracking the budgets, pers
 ## 📄 License
 
 MIT or similar.
+completed database set up
