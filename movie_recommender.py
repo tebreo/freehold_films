@@ -7,6 +7,7 @@ movies = {
     "drama": ["The Shawshank Redemption", "Forrest Gump", "The Godfather"],
     "sci-fi": ["Inception", "The Matrix", "Interstellar"],
     "horror": ["Get Out", "A Quiet Place", "The Conjuring"]
+    
 }
 
 # Show available genres
