@@ -52,3 +52,4 @@ MIT or similar.
 completed database set up
 Building reports in tabluea
 Making python script
+Creating a report presentation in powerpoint 
